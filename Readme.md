@@ -8,11 +8,11 @@ Fork from https://github.com/daltskin/CustomVision-TensorFlow-CSharp
 
 单个宫颈细胞图像分类，是一个三分类任务，三个类别分别是：垃圾细胞（Junk）、正常细胞（Negative）、异常细胞（Positive）三个类别的示例图片分别如下图所示：
 
-![junk](./assetsaa/junk.jpg)
+![junk](./assets/junk.jpg)
 
-![m](./assetsaa/negative.jpg)
+![m](./assets/negative.jpg)
 
-![neg](./assetsaa/positive.jpg)
+![neg](./assets/positive.jpg)
 
 首先，使用大量带标签的数据集训练出分类器，并将模型保存为pb格式。请参考[这里](https://github.com/JiaShengLiu111/MyBlog/blob/master/ckpt%E6%A8%A1%E5%9E%8B%E8%BD%AC%E4%B8%BApb%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%96%B9%E6%B3%95%2Btensorflow%E5%B0%86%E6%A8%A1%E5%9E%8B%E4%BF%9D%E5%AD%98%E4%B8%BApb%E6%A0%BC%E5%BC%8F%E7%9A%84%E6%96%B9%E6%B3%95.md)。
 
