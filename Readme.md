@@ -18,4 +18,3 @@ Fork from https://github.com/daltskin/CustomVision-TensorFlow-CSharp
 
 #### 针对我们自身的网络结构对[CustomVision-TensorFlow-CSharp](https://github.com/daltskin/CustomVision-TensorFlow-CSharp)进行修改：
 
-![1552996799832](C:\原D盘\研究生\研一\研一下\我的仓库\CustomVision-TensorFlow-CSharp\assets\1552996799832.png)
